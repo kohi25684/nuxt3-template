@@ -1,0 +1,3 @@
+# Layouts
+
+https://nuxt.com/docs/guide/directory-structure/layouts
